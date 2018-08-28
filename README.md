@@ -1,4 +1,5 @@
 # creativity
+[![DOI](https://zenodo.org/badge/141647407.svg)](https://zenodo.org/badge/latestdoi/141647407)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/creativity/master)
 
